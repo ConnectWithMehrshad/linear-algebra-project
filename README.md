@@ -2,8 +2,6 @@
 
 A linear algebra project that transfers facial gestures from one person to another. It detects facial landmarks, aligns face shapes, learns a PCA model, tracks a gesture video, and reconstructs the motion using a reference face's appearance.
 
-**Creators:** [Mehrshad Hosseini](https://www.linkedin.com/in/mehrshadhosseini28/) and [Hanie Masumi](https://www.linkedin.com/in/hanie-masumi/)
-
 **Date:** February 2022
 
 [Open in Google Colab](https://colab.research.google.com/github/ConnectWithMehrshad/linear-algebra-project/blob/master/Simple_Transfer_of_Facial_Gestures_with_Appearance_(Linear_Algebra_Project).ipynb)
